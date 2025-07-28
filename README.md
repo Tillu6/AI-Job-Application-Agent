@@ -66,8 +66,8 @@ JobAgent AI is your personal job application assistant that makes finding and ap
 ### 2️⃣ **Clone & Install**
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/jobagent-ai.git
-cd jobagent-ai
+git clone https://github.com/Tillu6/AI-Job-Application-Agent.git
+cd AI-Job-Application-Agent
 
 # Install dependencies
 npm install
@@ -275,7 +275,7 @@ Need help? We're here for you!
 - 📖 **Documentation**: Check our [Wiki](https://github.com/yourusername/jobagent-ai/wiki)
 - 🐛 **Bug Reports**: [Create an Issue](https://github.com/yourusername/jobagent-ai/issues)
 - 💬 **Questions**: [Start a Discussion](https://github.com/yourusername/jobagent-ai/discussions)
-- 📧 **Email**: support@jobagent-ai.com
+- 📧 **Email**: psakethreddy97@gmail.com 
 
 ---
 
